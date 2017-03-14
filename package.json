@@ -42,5 +42,10 @@
   "engines": {
     "node": ">= 0.12.0"
   },
-  "private": true
+  "private": true,
+  "ember-addon": {
+    "paths": [
+      "lib/ember-cli-package-merger"
+    ]
+  }
 }
