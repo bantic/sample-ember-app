@@ -10,7 +10,8 @@
       "name": "Launch Program",
       "program": "${workspaceRoot}/node_modules/.bin/ember",
       "args": [
-        "upgrade:deps"
+        "upgrade:deps",
+        "--dry-run"
       ]
     },
     {
