@@ -2,5 +2,8 @@
   "name": "ember-cli-package-merger",
   "keywords": [
     "ember-addon"
-  ]
+  ],
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  }
 }
