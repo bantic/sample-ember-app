@@ -39,6 +39,7 @@
     "ember-load-initializers": "^0.6.0",
     "ember-resolver": "^2.0.3",
     "ember-source": "~2.11.0",
+    "inquirer": "^3.0.6",
     "loader.js": "^4.0.10"
   },
   "engines": {
